@@ -50,8 +50,8 @@ blitz-vibey-script = { version = "=0.3.0-beta.2", path = "./packages/blitz-vibey
 blitz-shell = { version = "=0.3.0-beta.2", path = "./packages/blitz-shell", default-features = false }
 blitz-traits = { version = "=0.3.0-beta.2", path = "./packages/blitz-traits", default-features = false }
 stylo_taffy = { version = "=0.3.0-beta.2", path = "./packages/stylo_taffy", default-features = false }
-dioxus-native = { version = "0.7.0", path = "./packages/dioxus-native", default-features = false }
-dioxus-native-dom = { version = "0.7.0", path = "./packages/dioxus-native-dom", default-features = false }
+dioxus-native = { version = "0.8.0-alpha.1", path = "./packages/dioxus-native", default-features = false }
+dioxus-native-dom = { version = "0.8.0-alpha.1", path = "./packages/dioxus-native-dom", default-features = false }
 debug_timer = { version = "0.1.2", path = "./packages/debug_timer" }
 accesskit_xplat = { version = "0.2", path = "./packages/accesskit_xplat", default-features = false }
 browser-persistence = { path = "./apps/browser/persistence" }
